@@ -1,0 +1,43 @@
+.outer{
+    background-image: url('../../cover.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 91vh;
+   
+    display: block;
+    
+
+    
+    text-align: center;
+    position: relative;
+    
+    
+}
+body{
+    color:white;
+}
+.inner{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);        
+    
+}
+span{
+    font-size: large;
+}
+.custom{
+    color: black;
+    padding: 20px;;
+    border:none;
+
+}
+.custom:hover{
+    transition: ease-in-out ;
+    cursor: pointer;
+    background-color:grey;
+    color:white
+}
+.name{
+    font-size: 5rem;
+}
