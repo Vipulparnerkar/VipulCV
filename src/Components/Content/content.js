@@ -59,7 +59,7 @@ const Content = () =>{
                     <div className="card-body">
                         <h5 className="card-title">Complete Python bootcamp from zero to hero </h5>
                         <h6 className="card-subtitle mb-2 text-muted">Udemy</h6>
-                        <p className="card-text">Completed tis course based on Python..</p>
+                        <p className="card-text">Completed this course based on Python..</p>
                         <p>⭐⭐</p>
                         <a href="www.google.com" className="card-link">View Certificate</a>
                         
@@ -71,7 +71,7 @@ const Content = () =>{
                     <div className="card-body">
                         <h5 className="card-title">JavaScript </h5>
                         <h6 className="card-subtitle mb-2 text-muted">Udemy</h6>
-                        <p className="card-text">Completed tis course based on JavaScript</p>
+                        <p className="card-text">Completed this course based on JavaScript</p>
                         <p>⭐⭐⭐</p>
                         <a href="www.google.com" className="card-link">View Certificate</a>
                         
